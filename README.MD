@@ -20,8 +20,8 @@
 - [JPA의 장단점 설명 및 기본 구조 만들기](https://goddaehee.tistory.com/209)
 
 ### React
-- [React 초기 설치 With yarn] (https://velopert.com/3621)
-- [React Mobx 환경 구축] (https://velog.io/@hadmarine/MobX-with-React-Applying)
+- [React 초기 설치 With yarn](https://velopert.com/3621)
+- [React Mobx 환경 구축](https://velog.io/@hadmarine/MobX-with-React-Applying)
 
 ## 기여
 
