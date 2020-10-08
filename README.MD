@@ -14,14 +14,15 @@
 - [mysql_native_password 로 비밀번호 변경하기](https://mariadb.org/authentication-in-mariadb-10-4/)
 - [MySQL 한글 인코딩(UTF-8)](https://bestcoding.tistory.com/11)
 
+### React
+- [React 초기 설치 With yarn](https://velopert.com/3621)
+- [React Mobx 환경 구축](https://velog.io/@hadmarine/MobX-with-React-Applying)
+
 ### Spring
 
 - [JPA 초기 설정 With Gradle](https://blog.naver.com/PostView.nhn?blogId=kangminser88&logNo=221308016222)
 - [JPA의 장단점 설명 및 기본 구조 만들기](https://goddaehee.tistory.com/209)
 
-### React
-- [React 초기 설치 With yarn](https://velopert.com/3621)
-- [React Mobx 환경 구축](https://velog.io/@hadmarine/MobX-with-React-Applying)
 
 ## 기여
 
