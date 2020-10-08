@@ -13,11 +13,17 @@
 - [MacOS에서 mysql과 mariadb를 함께 설치하여 발생하는 충돌](https://stackoverrun.com/ko/q/11675926)
 - [mysql_native_password 로 비밀번호 변경하기](https://mariadb.org/authentication-in-mariadb-10-4/)
 - [MySQL 한글 인코딩(UTF-8)](https://bestcoding.tistory.com/11)
+- [MySQL 이모지 저장 시 오류(utf8bm4)](https://yookeun.github.io/database/2015/07/21/mysql-utf8mb4/)
+
+### Node.js
+
+- [무료 https 적용하기(letsencrypt)](https://slog.website/post/5)
 
 ### React
 
 - [React 초기 설치 With yarn](https://velopert.com/3621)
 - [React Mobx 환경 구축](https://velog.io/@hadmarine/MobX-with-React-Applying)
+- [React TypeScript Mobx 환경 구축](https://slog.website/post/3)
 - [React 잘되던 yarn start 오류 해결하기](https://stackoverflow.com/questions/54393192/error-yarn-start-error-command-start-not-found)
 
 ### Spring
