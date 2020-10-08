@@ -15,14 +15,15 @@
 - [MySQL 한글 인코딩(UTF-8)](https://bestcoding.tistory.com/11)
 
 ### React
+
 - [React 초기 설치 With yarn](https://velopert.com/3621)
 - [React Mobx 환경 구축](https://velog.io/@hadmarine/MobX-with-React-Applying)
+- [React 잘되던 yarn start 오류 해결하기](https://stackoverflow.com/questions/54393192/error-yarn-start-error-command-start-not-found)
 
 ### Spring
 
 - [JPA 초기 설정 With Gradle](https://blog.naver.com/PostView.nhn?blogId=kangminser88&logNo=221308016222)
 - [JPA의 장단점 설명 및 기본 구조 만들기](https://goddaehee.tistory.com/209)
-
 
 ## 기여
 
