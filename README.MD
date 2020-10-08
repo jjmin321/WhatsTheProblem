@@ -22,6 +22,7 @@
 ### React
 - [React 초기 설치 With yarn](https://velopert.com/3621)
 - [React Mobx 환경 구축](https://velog.io/@hadmarine/MobX-with-React-Applying)
+- [React를 사용하는 이유](https://velog.io/@youthfulhps/React-React%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
 
 ## 기여
 
