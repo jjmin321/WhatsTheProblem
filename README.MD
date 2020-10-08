@@ -13,6 +13,7 @@
 - [MacOS에서 mysql과 mariadb를 함께 설치하여 발생하는 충돌](https://stackoverrun.com/ko/q/11675926)
 - [mysql_native_password 로 비밀번호 변경하기](https://mariadb.org/authentication-in-mariadb-10-4/)
 - [MySQL 한글 인코딩(UTF-8)](https://bestcoding.tistory.com/11)
+- [MySQL 이모지 저장 시 오류(utf8bm4)](https://yookeun.github.io/database/2015/07/21/mysql-utf8mb4/)
 
 ### React
 
