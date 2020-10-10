@@ -8,6 +8,23 @@
 
 `a-z` 순서로 정렬되어 있어요.
 
+### Go
+
+- [Go Run, Build, Install 차이](https://medium.com/@whj2013123218/go-run-build-install-fa29cab5bc32)
+- [Go Modules로 패키지 관리하기](https://velog.io/@kimmachinegun/Go-Go-Modules-살펴보기-7cjn4soifk)
+- [Gorm 시작하기](http://blog.naver.com/PostView.nhn?blogId=pjt3591oo&logNo=221863347387)
+
+### Java
+
+- [Java HashMap 사용하는 법](https://codechacha.com/ko/java-map-hashmap/)
+- [Java Set 사용하는 법](https://palpit.tistory.com/655)
+- [Java에서 제공하는 Log 기능 사용하는 법](http://www.gisdeveloper.co.kr/?p=5174)
+- [Java의 this 키워드](https://library1008.tistory.com/4)
+
+### JavaScript
+
+- [JS - Call By Value, Call by Reference(함수 호출하는 방법)](https://wlswoo.tistory.com/7)
+
 ### Mysql (MariaDB)
 
 - [MacOS에서 mysql과 mariadb를 함께 설치하여 발생하는 충돌](https://stackoverrun.com/ko/q/11675926)
@@ -26,6 +43,7 @@
 - [React TypeScript Mobx 환경 구축](https://slog.website/post/3)
 - [React 잘되던 yarn start 오류 해결하기](https://stackoverflow.com/questions/54393192/error-yarn-start-error-command-start-not-found)
 - [React 프로젝트 github pages 커스텀 도메인 설정](https://medium.com/@shauxna/setting-up-a-custom-domain-for-your-react-app-on-github-pages-827b2606ca18)
+- [React 적용 가이드 - React 작동 방법](https://d2.naver.com/helloworld/9297403)
 
 ### Spring
 
