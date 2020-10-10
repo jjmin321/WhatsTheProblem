@@ -43,6 +43,7 @@
 - [React TypeScript Mobx 환경 구축](https://slog.website/post/3)
 - [React 잘되던 yarn start 오류 해결하기](https://stackoverflow.com/questions/54393192/error-yarn-start-error-command-start-not-found)
 - [React 프로젝트 github pages 커스텀 도메인 설정](https://medium.com/@shauxna/setting-up-a-custom-domain-for-your-react-app-on-github-pages-827b2606ca18)
+- [React 적용 가이드 - React 작동 방법](https://d2.naver.com/helloworld/9297403)
 
 ### Spring
 
