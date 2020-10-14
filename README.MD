@@ -51,6 +51,11 @@
 
 - [JPA 초기 설정 With Gradle](https://blog.naver.com/PostView.nhn?blogId=kangminser88&logNo=221308016222)
 - [JPA의 장단점 설명 및 기본 구조 만들기](https://goddaehee.tistory.com/209)
+- [@AutoWired 분석](https://galid1.tistory.com/512)
+
+### Vue
+
+- [Vue 개발 환경 구축](https://armontad-1202.tistory.com/entry/Vue-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95)
 
 ## 기여
 
