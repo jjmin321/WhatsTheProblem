@@ -58,6 +58,7 @@
 ### Vue
 
 - [Vue 개발 환경 구축](https://armontad-1202.tistory.com/entry/Vue-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95)
+- [Vue axios header Bearer 삽입 코드](https://blog.naver.com/PostView.nhn?blogId=mysk4521&logNo=221542729585)
 
 ## 기여
 
