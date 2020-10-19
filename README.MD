@@ -8,6 +8,10 @@
 
 `a-z` 순서로 정렬되어 있어요.
 
+### Android
+
+- [Android Studio 이유 없는 오류 대처법](https://blog.naver.com/namgyeseok0614/222119998861)
+
 ### Go
 
 - [Go Run, Build, Install 차이](https://medium.com/@whj2013123218/go-run-build-install-fa29cab5bc32)
