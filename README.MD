@@ -65,6 +65,7 @@
 
 - [Vue 개발 환경 구축](https://armontad-1202.tistory.com/entry/Vue-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95)
 - [Vue Jwt 적용](https://focuspro.tistory.com/14)
+- [Vue 라이프 사이클에 대한 정리](https://beomy.tistory.com/47)
 
 ## 기여
 
