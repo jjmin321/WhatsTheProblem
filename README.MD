@@ -59,7 +59,7 @@
 
 - [JPA 초기 설정 With Gradle](https://blog.naver.com/PostView.nhn?blogId=kangminser88&logNo=221308016222)
 - [JPA의 장단점 설명 및 기본 구조 만들기](https://goddaehee.tistory.com/209)
-- [Spring과 Swagger 연동](https://ecolumbus.tistory.com/39)
+- [Spring과 Swagger 연동](https://www.youtube.com/watch?v=2da5VedUvaw)
 - [@AutoWired 알아보기](https://galid1.tistory.com/512)
 
 ### Vue
