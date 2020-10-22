@@ -8,6 +8,11 @@
 
 `a-z` 순서로 정렬되어 있어요.
 
+### Android
+
+- [Android Studio 이유 없는 오류 대처법](https://blog.naver.com/namgyeseok0614/222119998861)
+- [안드로이드에서 발생하는 ArrayOutOfBoundsException 해결법](https://blog.naver.com/kimjongwoo2003/222120756500)
+
 ### Go
 
 - [Go Run, Build, Install 차이](https://medium.com/@whj2013123218/go-run-build-install-fa29cab5bc32)
@@ -54,12 +59,14 @@
 
 - [JPA 초기 설정 With Gradle](https://blog.naver.com/PostView.nhn?blogId=kangminser88&logNo=221308016222)
 - [JPA의 장단점 설명 및 기본 구조 만들기](https://goddaehee.tistory.com/209)
-- [@AutoWired 분석](https://galid1.tistory.com/512)
+- [Spring과 Swagger 연동](https://ecolumbus.tistory.com/39)
+- [@AutoWired 알아보기](https://galid1.tistory.com/512)
 
 ### Vue
 
 - [Vue 개발 환경 구축](https://armontad-1202.tistory.com/entry/Vue-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95)
 - [Vue Jwt 적용](https://focuspro.tistory.com/14)
+- [Vue 라이프 사이클에 대한 정리](https://beomy.tistory.com/47)
 
 ## 기여
 
