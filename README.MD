@@ -18,6 +18,7 @@
 - [Go Run, Build, Install 차이](https://medium.com/@whj2013123218/go-run-build-install-fa29cab5bc32)
 - [Go Modules로 패키지 관리하기](https://velog.io/@kimmachinegun/Go-Go-Modules-살펴보기-7cjn4soifk)
 - [Gorm 시작하기](http://blog.naver.com/PostView.nhn?blogId=pjt3591oo&logNo=221863347387)
+- [Recover로 에러 처리하는 법](https://hamait.tistory.com/1027)
 
 ### Java
 
