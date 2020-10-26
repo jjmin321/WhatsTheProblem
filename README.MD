@@ -35,6 +35,12 @@
 
 - [JS - Call By Value, Call by Reference(함수 호출하는 방법)](https://wlswoo.tistory.com/7)
 
+### Linux
+
+- [PostgreSQL 시작하기](https://velog.io/@maintain0404/PosgreSQL-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
+- [Go 원하는 버전 설치](https://github.com/golang/go/wiki/Ubuntu)
+- [NodeJS 원하는 버전 설치](https://github.com/nodesource/distributions/blob/master/README.md)
+
 ### Mysql (MariaDB)
 
 - [MacOS에서 mysql과 mariadb를 함께 설치하여 발생하는 충돌](https://stackoverrun.com/ko/q/11675926)
@@ -68,12 +74,6 @@
 - [JPA의 장단점 설명 및 기본 구조 만들기](https://goddaehee.tistory.com/209)
 - [Spring과 Swagger 연동](https://www.youtube.com/watch?v=2da5VedUvaw)
 - [@AutoWired 알아보기](https://galid1.tistory.com/512)
-
-### Ubuntu
-
-- [PostgreSQL 시작하기](https://velog.io/@maintain0404/PosgreSQL-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
-- [Go 원하는 버전 설치](https://github.com/golang/go/wiki/Ubuntu)
-- [NodeJS 원하는 버전 설치](https://github.com/nodesource/distributions/blob/master/README.md)
 
 ### Vue
 
