@@ -46,6 +46,10 @@
 
 - [무료 https 적용하기(letsencrypt)](https://slog.website/post/5)
 
+### Postgresql
+
+- [데이터베이스 이름 바꾸기](https://stackoverrun.com/ko/q/16709)
+
 ### React
 
 - [React 초기 설치 With yarn](https://velopert.com/3621)
