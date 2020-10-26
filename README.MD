@@ -65,6 +65,10 @@
 - [Spring과 Swagger 연동](https://www.youtube.com/watch?v=2da5VedUvaw)
 - [@AutoWired 알아보기](https://galid1.tistory.com/512)
 
+### Ubuntu
+
+- [PostgreSQL 시작하기](https://velog.io/@maintain0404/PosgreSQL-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
+
 ### Vue
 
 - [Vue 개발 환경 구축](https://armontad-1202.tistory.com/entry/Vue-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95)
