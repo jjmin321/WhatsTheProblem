@@ -40,6 +40,7 @@
 - [PostgreSQL 시작하기](https://velog.io/@maintain0404/PosgreSQL-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
 - [Go 원하는 버전 설치](https://github.com/golang/go/wiki/Ubuntu)
 - [NodeJS 원하는 버전 설치](https://github.com/nodesource/distributions/blob/master/README.md)
+- [Sudo 권한 부여 및 계정 비밀번호 변경](https://m.blog.naver.com/wonseok0403/221347390374)
 
 ### Mysql (MariaDB)
 
