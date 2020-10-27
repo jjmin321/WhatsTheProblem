@@ -35,6 +35,13 @@
 
 - [JS - Call By Value, Call by Reference(함수 호출하는 방법)](https://wlswoo.tistory.com/7)
 
+### Linux
+
+- [PostgreSQL 시작하기](https://velog.io/@maintain0404/PosgreSQL-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
+- [Go 원하는 버전 설치](https://github.com/golang/go/wiki/Ubuntu)
+- [NodeJS 원하는 버전 설치](https://github.com/nodesource/distributions/blob/master/README.md)
+- [Sudo 권한 부여 및 계정 비밀번호 변경](https://m.blog.naver.com/wonseok0403/221347390374)
+
 ### Mysql (MariaDB)
 
 - [MacOS에서 mysql과 mariadb를 함께 설치하여 발생하는 충돌](https://stackoverrun.com/ko/q/11675926)
@@ -45,6 +52,10 @@
 ### Node.js
 
 - [무료 https 적용하기(letsencrypt)](https://slog.website/post/5)
+
+### Postgresql
+
+- [데이터베이스 이름 바꾸기](https://stackoverrun.com/ko/q/16709)
 
 ### React
 
