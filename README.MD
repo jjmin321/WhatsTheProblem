@@ -50,6 +50,9 @@
 - [MySQL 한글 인코딩(UTF-8)](https://bestcoding.tistory.com/11)
 - [MySQL 이모지 저장 시 오류(utf8bm4)](https://yookeun.github.io/database/2015/07/21/mysql-utf8mb4/)
 
+### Next.js
+- [analyze를 이용한 Next.js Bundle Size 측정하기](https://flaviocopes.com/nextjs-analyze-app-bundle/)
+
 ### Node.js
 
 - [무료 https 적용하기(letsencrypt)](https://slog.website/post/5)
