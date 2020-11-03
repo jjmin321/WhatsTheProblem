@@ -42,6 +42,7 @@
 - [Go 원하는 버전 설치](https://github.com/golang/go/wiki/Ubuntu)
 - [NodeJS 원하는 버전 설치](https://github.com/nodesource/distributions/blob/master/README.md)
 - [Sudo 권한 부여 및 계정 비밀번호 변경](https://m.blog.naver.com/wonseok0403/221347390374)
+- [Tmux 사용법](https://velog.io/@ur-luella/tmux-사용법)
 
 ### Mysql (MariaDB)
 
