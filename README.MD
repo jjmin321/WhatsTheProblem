@@ -16,6 +16,7 @@
 
 ### Java
 
+- [Java의 자료구조(JCF)](https://wlswoo.tistory.com/5)
 - [Java HashMap 사용하는 법](https://codechacha.com/ko/java-map-hashmap/)
 - [Java Set 사용하는 법](https://palpit.tistory.com/655)
 - [Java에서 제공하는 Log 기능 사용하는 법](http://www.gisdeveloper.co.kr/?p=5174)
