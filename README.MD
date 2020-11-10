@@ -88,7 +88,7 @@
 - [Spring과 Swagger 연동](https://www.youtube.com/watch?v=2da5VedUvaw)
 - [@AutoWired 알아보기](https://galid1.tistory.com/512)
 - [JPA 즉시 로딩과 지연 로딩](https://ict-nroo.tistory.com/132)
-- [JPA에서 %LIKE%로 데이터 찾느 법](https://stackoverflow.com/questions/25362540/like-query-in-spring-jparepository)
+- [JPA에서 %LIKE%로 데이터 찾는 법](https://stackoverflow.com/questions/25362540/like-query-in-spring-jparepository)
 
 ### Vue
 
