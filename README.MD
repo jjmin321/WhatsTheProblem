@@ -87,6 +87,7 @@
 - [JPA의 장단점 설명 및 기본 구조 만들기](https://goddaehee.tistory.com/209)
 - [Spring과 Swagger 연동](https://www.youtube.com/watch?v=2da5VedUvaw)
 - [@AutoWired 알아보기](https://galid1.tistory.com/512)
+- [JPA 즉시 로딩과 지연 로딩](https://ict-nroo.tistory.com/132)
 
 ### Vue
 
