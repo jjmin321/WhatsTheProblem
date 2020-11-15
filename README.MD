@@ -37,6 +37,8 @@
 ### JavaScript
 
 - [JS - Call By Value, Call by Reference(함수 호출하는 방법)](https://wlswoo.tistory.com/7)
+- [배열 값을 명령어로 추가, 삭제하는 방법](https://gent.tistory.com/295)
+- [배열속 원하는 값을 찾아주는 함수](https://dpdpwl.tistory.com/112)
 
 ### Linux
 
@@ -52,6 +54,7 @@
 - [mysql_native_password 로 비밀번호 변경하기](https://mariadb.org/authentication-in-mariadb-10-4/)
 - [MySQL 한글 인코딩(UTF-8)](https://bestcoding.tistory.com/11)
 - [MySQL 이모지 저장 시 오류(utf8bm4)](https://yookeun.github.io/database/2015/07/21/mysql-utf8mb4/)
+- [DATETIME을 활용해서 년도, 월, 일 등만을 추출하는 법](https://extbrain.tistory.com/60)
 
 ### Next.js
 - [analyze를 이용한 Next.js Bundle Size 측정하기](https://flaviocopes.com/nextjs-analyze-app-bundle/)
@@ -84,6 +87,9 @@
 - [JPA의 장단점 설명 및 기본 구조 만들기](https://goddaehee.tistory.com/209)
 - [Spring과 Swagger 연동](https://www.youtube.com/watch?v=2da5VedUvaw)
 - [@AutoWired 알아보기](https://galid1.tistory.com/512)
+- [JPA 즉시 로딩과 지연 로딩](https://ict-nroo.tistory.com/132)
+- [JPA에서 %LIKE%로 데이터 찾는 법](https://stackoverflow.com/questions/25362540/like-query-in-spring-jparepository)
+- [JPA 사용할 때 쿼리 직접 쓰는 법](https://victorydntmd.tistory.com/211)
 
 ### Vue
 
