@@ -22,6 +22,7 @@
 - [Gorm 시작하기](http://blog.naver.com/PostView.nhn?blogId=pjt3591oo&logNo=221863347387)
 - [Recover로 에러 처리하는 법](https://hamait.tistory.com/1027)
 - [[]string을 []byte로 바꾸는 법](https://www.socketloop.com/tutorials/golang-convert-string-to-byte-examples)
+- [날짜 계산, 포맷 변경하는 법](https://brownbears.tistory.com/405)
 
 ### Java
 
