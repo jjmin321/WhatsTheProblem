@@ -18,6 +18,7 @@
 ### Docker 
 - [Dockerfile 명령어 정리(1)](https://nirsa.tistory.com/66)
 - [Docker Compose 커맨드 사용법](https://www.daleseo.com/docker-compose/)
+- [Docker Compose 원하는 버전 설치하기](https://docs.docker.com/compose/install/)
 
 ### Go
 
