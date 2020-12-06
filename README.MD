@@ -87,6 +87,7 @@
 - [React에서 useStores custom hooks를 이용한 MobX 스토어 사용하기](https://mobx-react.js.org/recipes-migration#hooks-for-the-rescue)
 - [React 다양한 컴포넌트 스타일링 방법들](https://velopert.com/3447)
 - [React Router dom을 적용한 프로젝트를 github pages에 올리기](https://medium.com/@_diana_lee/react-react-router-%EC%A0%81%EC%9A%A9%ED%95%9C-react-%EC%95%B1%EC%9D%84-github-pages%EB%A1%9C-%EB%B0%B0%ED%8F%AC%ED%95%98%EB%8A%94-%EB%B2%95-5f6119c6a5d9)
+- [React 404.html을 이용한 React Router 새로고침시 404오류 해결하기](https://iamsjy17.github.io/react/2018/11/04/githubpage-SPA.html)
 
 ### Spring
 
