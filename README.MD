@@ -10,10 +10,11 @@
 
 ### Android
 
-- [Android Studio 이유 없는 오류 대처법](https://blog.naver.com/namgyeseok0614/222119998861)
+- [Android Studio 이유 없는 오류 대처법](https://velog.io/@nkstar00/Android-Studio-%EC%9D%B4%EC%9C%A0-%EB%AA%A8%EB%A5%BC-%EC%98%A4%EB%A5%98-%EB%8C%80%EC%B2%98%EB%B2%95)
 - [안드로이드에서 발생하는 ArrayOutOfBoundsException 해결법](https://blog.naver.com/kimjongwoo2003/222120756500)
-- [Android HTTP 통신 허용하는 방법](https://blog.naver.com/namgyeseok0614/222135206839)
+- [Android HTTP 통신 허용하는 방법](https://velog.io/@nkstar00/Android-HTTP-%ED%86%B5%EC%8B%A0-%ED%97%88%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B2%95)
 - [socket failed: EPERM (Operation not permitted) 해결법](https://blog.naver.com/kimjongwoo2003/222129083610)
+- [Android 생명 주기](https://velog.io/@nkstar00/Android-%EC%83%9D%EB%AA%85-%EC%A3%BC%EA%B8%B0-Life-Cycle)
 
 ### Docker 
 - [Dockerfile 명령어 정리(1)](https://nirsa.tistory.com/66)
@@ -39,6 +40,7 @@
 - [Java String.valueOf와 toString()의 차이점](https://swjeong.tistory.com/146)
 - [Java 직렬화 & 역직렬화](https://nesoy.github.io/articles/2018-04/Java-Serialize)
 - [Java String, StringBuilder, StringBuffer의 차이점](https://12bme.tistory.com/42)
+- [Java Deep Copy(깊은 복사), Shallow Copy(얕은 복사)](https://velog.io/@nkstar00/Java%EC%97%90%EC%84%9C%EC%9D%98-%EA%B9%8A%EC%9D%80-%EB%B3%B5%EC%82%AC%EC%99%80-%EC%96%95%EC%9D%80-%EB%B3%B5%EC%82%AC)
 
 ### JavaScript
 
