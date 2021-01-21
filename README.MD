@@ -47,6 +47,7 @@
 - [JS - Call By Value, Call by Reference(함수 호출하는 방법)](https://wlswoo.tistory.com/7)
 - [배열 값을 명령어로 추가, 삭제하는 방법](https://gent.tistory.com/295)
 - [배열속 원하는 값을 찾아주는 함수](https://dpdpwl.tistory.com/112)
+- [JavaScript의 원소 정렬 함수 Sort 알아보기](https://dudmy.net/javascript/2015/11/16/javascript-sort/)
 
 ### Linux
 
