@@ -48,6 +48,7 @@
 - [배열 값을 명령어로 추가, 삭제하는 방법](https://gent.tistory.com/295)
 - [배열속 원하는 값을 찾아주는 함수](https://dpdpwl.tistory.com/112)
 - [JavaScript의 원소 정렬 함수 Sort 알아보기](https://dudmy.net/javascript/2015/11/16/javascript-sort/)
+- [e.preventDefault()와 e.stopPropagation()의 차이점](https://velog.io/@yiyb0603/JS-e.preventDefault%EC%99%80-e.stopPropagation%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
 
 ### Linux
 
