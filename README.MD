@@ -78,6 +78,10 @@
 - [데이터베이스 이름 바꾸기](https://stackoverrun.com/ko/q/16709)
 - [원격 접속 허용하는 법](https://jupiny.com/2016/12/13/could-not-connect-to-server-connection-refused-when-remote-access-to-postgresql/)
 
+### Python
+- [문자열 조작하기](https://dojang.io/mod/page/view.php?id=2299)
+- [정규표현식(re) 사용법](https://greeksharifa.github.io/정규표현식(re)/2018/08/04/regex-usage-05-intermediate/)
+
 ### React
 
 - [React 초기 설치 With yarn](https://velopert.com/3621)
