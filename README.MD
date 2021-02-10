@@ -41,6 +41,7 @@
 - [Java 직렬화 & 역직렬화](https://nesoy.github.io/articles/2018-04/Java-Serialize)
 - [Java String, StringBuilder, StringBuffer의 차이점](https://12bme.tistory.com/42)
 - [Java Deep Copy(깊은 복사), Shallow Copy(얕은 복사)](https://velog.io/@nkstar00/Java%EC%97%90%EC%84%9C%EC%9D%98-%EA%B9%8A%EC%9D%80-%EB%B3%B5%EC%82%AC%EC%99%80-%EC%96%95%EC%9D%80-%EB%B3%B5%EC%82%AC)
+- [Java로 만드는 Macro](https://velog.io/@nkstar00/Java%EB%A1%9C-Macro%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90)
 
 ### JavaScript
 
