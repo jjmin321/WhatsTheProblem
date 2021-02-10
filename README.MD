@@ -48,6 +48,8 @@
 - [JS - Call By Value, Call by Reference(함수 호출하는 방법)](https://wlswoo.tistory.com/7)
 - [배열 값을 명령어로 추가, 삭제하는 방법](https://gent.tistory.com/295)
 - [배열속 원하는 값을 찾아주는 함수](https://dpdpwl.tistory.com/112)
+- [JavaScript의 원소 정렬 함수 Sort 알아보기](https://dudmy.net/javascript/2015/11/16/javascript-sort/)
+- [e.preventDefault()와 e.stopPropagation()의 차이점](https://velog.io/@yiyb0603/JS-e.preventDefault%EC%99%80-e.stopPropagation%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
 
 ### Linux
 
@@ -62,7 +64,7 @@
 - [MacOS에서 mysql과 mariadb를 함께 설치하여 발생하는 충돌](https://stackoverrun.com/ko/q/11675926)
 - [mysql_native_password 로 비밀번호 변경하기](https://mariadb.org/authentication-in-mariadb-10-4/)
 - [MySQL 한글 인코딩(UTF-8)](https://bestcoding.tistory.com/11)
-- [MySQL 이모지 저장 시 오류(utf8bm4)](https://yookeun.github.io/database/2015/07/21/mysql-utf8mb4/)
+- [MySQL 이모지 저장 시 오류(utf8mb4)](https://yookeun.github.io/database/2015/07/21/mysql-utf8mb4/)
 - [DATETIME을 활용해서 년도, 월, 일 등만을 추출하는 법](https://extbrain.tistory.com/60)
 
 ### Next.js
@@ -76,6 +78,10 @@
 
 - [데이터베이스 이름 바꾸기](https://stackoverrun.com/ko/q/16709)
 - [원격 접속 허용하는 법](https://jupiny.com/2016/12/13/could-not-connect-to-server-connection-refused-when-remote-access-to-postgresql/)
+
+### Python
+- [문자열 조작하기](https://dojang.io/mod/page/view.php?id=2299)
+- [정규표현식(re) 사용법](https://greeksharifa.github.io/정규표현식(re)/2018/08/04/regex-usage-05-intermediate/)
 
 ### React
 
