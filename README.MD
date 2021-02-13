@@ -42,6 +42,7 @@
 - [Java String, StringBuilder, StringBuffer의 차이점](https://12bme.tistory.com/42)
 - [Java Deep Copy(깊은 복사), Shallow Copy(얕은 복사)](https://velog.io/@nkstar00/Java%EC%97%90%EC%84%9C%EC%9D%98-%EA%B9%8A%EC%9D%80-%EB%B3%B5%EC%82%AC%EC%99%80-%EC%96%95%EC%9D%80-%EB%B3%B5%EC%82%AC)
 - [Java로 만드는 Macro](https://velog.io/@nkstar00/Java%EB%A1%9C-Macro%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90)
+- [Java Overloading과 Overriding 정리](https://velog.io/@nkstar00/%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9Overloading%EA%B3%BC-%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9Overriding)
 
 ### JavaScript
 
