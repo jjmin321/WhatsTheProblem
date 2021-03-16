@@ -83,6 +83,7 @@
 
 - [데이터베이스 이름 바꾸기](https://stackoverrun.com/ko/q/16709)
 - [원격 접속 허용하는 법](https://jupiny.com/2016/12/13/could-not-connect-to-server-connection-refused-when-remote-access-to-postgresql/)
+- [NoSQL과 RDBMS 적절하게 섞기](https://mustread.tistory.com/5)
 
 ### Python
 - [문자열 조작하기](https://dojang.io/mod/page/view.php?id=2299)
