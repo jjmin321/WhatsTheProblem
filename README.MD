@@ -55,6 +55,14 @@
 - [JavaScript의 원소 정렬 함수 Sort 알아보기](https://dudmy.net/javascript/2015/11/16/javascript-sort/)
 - [e.preventDefault()와 e.stopPropagation()의 차이점](https://velog.io/@yiyb0603/JS-e.preventDefault%EC%99%80-e.stopPropagation%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
 
+### JPA
+
+- [JPA 초기 설정 With Gradle](https://blog.naver.com/PostView.nhn?blogId=kangminser88&logNo=221308016222)
+- [JPA의 장단점 설명 및 기본 구조 만들기](https://goddaehee.tistory.com/209)
+- [JPA 즉시 로딩과 지연 로딩](https://ict-nroo.tistory.com/132)
+- [JPA에서 %LIKE%로 데이터 찾는 법](https://stackoverflow.com/questions/25362540/like-query-in-spring-jparepository)
+- [JPQL이 궁금한 당신에게 추천함](https://joont92.github.io/jpa/Spring-Data-JPA/)
+- 
 ### Linux
 
 - [PostgreSQL 시작하기](https://velog.io/@maintain0404/PosgreSQL-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
@@ -106,13 +114,8 @@
 
 ### Spring
 
-- [JPA 초기 설정 With Gradle](https://blog.naver.com/PostView.nhn?blogId=kangminser88&logNo=221308016222)
-- [JPA의 장단점 설명 및 기본 구조 만들기](https://goddaehee.tistory.com/209)
 - [Spring과 Swagger 연동](https://www.youtube.com/watch?v=2da5VedUvaw)
 - [@AutoWired 알아보기](https://galid1.tistory.com/512)
-- [JPA 즉시 로딩과 지연 로딩](https://ict-nroo.tistory.com/132)
-- [JPA에서 %LIKE%로 데이터 찾는 법](https://stackoverflow.com/questions/25362540/like-query-in-spring-jparepository)
-- [JPQL이 궁금한 당신에게 추천함](https://joont92.github.io/jpa/Spring-Data-JPA/)
 
 ### Vue
 
