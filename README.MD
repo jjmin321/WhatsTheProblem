@@ -112,7 +112,7 @@
 - [@AutoWired 알아보기](https://galid1.tistory.com/512)
 - [JPA 즉시 로딩과 지연 로딩](https://ict-nroo.tistory.com/132)
 - [JPA에서 %LIKE%로 데이터 찾는 법](https://stackoverflow.com/questions/25362540/like-query-in-spring-jparepository)
-- [JPA 사용할 때 쿼리 직접 쓰는 법](https://victorydntmd.tistory.com/211)
+- [JPQL이 궁금한 당신에게 추천함](https://joont92.github.io/jpa/Spring-Data-JPA/)
 
 ### Vue
 
