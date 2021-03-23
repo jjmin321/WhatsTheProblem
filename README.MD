@@ -16,6 +16,9 @@
 - [socket failed: EPERM (Operation not permitted) 해결법](https://blog.naver.com/kimjongwoo2003/222129083610)
 - [Android 생명 주기](https://velog.io/@nkstar00/Android-%EC%83%9D%EB%AA%85-%EC%A3%BC%EA%B8%B0-Life-Cycle)
 
+### CSS
+- [픽셀 사용하지 않고 반응형 웹 만들기](https://nykim.work/85)
+
 ### Docker 
 - [Dockerfile 명령어 정리(1)](https://nirsa.tistory.com/66)
 - [Docker Compose 커맨드 사용법](https://www.daleseo.com/docker-compose/)
@@ -52,6 +55,14 @@
 - [JavaScript의 원소 정렬 함수 Sort 알아보기](https://dudmy.net/javascript/2015/11/16/javascript-sort/)
 - [e.preventDefault()와 e.stopPropagation()의 차이점](https://velog.io/@yiyb0603/JS-e.preventDefault%EC%99%80-e.stopPropagation%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
 
+### JPA
+
+- [JPA 초기 설정 With Gradle](https://blog.naver.com/PostView.nhn?blogId=kangminser88&logNo=221308016222)
+- [JPA의 장단점 설명 및 기본 구조 만들기](https://goddaehee.tistory.com/209)
+- [JPA 즉시 로딩과 지연 로딩](https://ict-nroo.tistory.com/132)
+- [JPA에서 %LIKE%로 데이터 찾는 법](https://stackoverflow.com/questions/25362540/like-query-in-spring-jparepository)
+- [JPQL이 궁금한 당신에게 추천함](https://joont92.github.io/jpa/Spring-Data-JPA/)
+
 ### Linux
 
 - [PostgreSQL 시작하기](https://velog.io/@maintain0404/PosgreSQL-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
@@ -59,6 +70,7 @@
 - [NodeJS 원하는 버전 설치](https://github.com/nodesource/distributions/blob/master/README.md)
 - [Sudo 권한 부여 및 계정 비밀번호 변경](https://m.blog.naver.com/wonseok0403/221347390374)
 - [Tmux 사용법](https://velog.io/@ur-luella/tmux-사용법)
+- [안 죽는 좀비 프로세스 지우는 법](https://zetawiki.com/wiki/안_죽는_좀비_프로세스_죽이기)
 
 ### Mysql (MariaDB)
 
@@ -67,6 +79,9 @@
 - [MySQL 한글 인코딩(UTF-8)](https://bestcoding.tistory.com/11)
 - [MySQL 이모지 저장 시 오류(utf8mb4)](https://yookeun.github.io/database/2015/07/21/mysql-utf8mb4/)
 - [DATETIME을 활용해서 년도, 월, 일 등만을 추출하는 법](https://extbrain.tistory.com/60)
+
+### NestJS
+- [NestJS로 Swagger 문서화하기](https://velog.io/@glowforever/NESTJS로-Swagger-문서화-하기)
 
 ### Next.js
 - [analyze를 이용한 Next.js Bundle Size 측정하기](https://flaviocopes.com/nextjs-analyze-app-bundle/)
@@ -79,6 +94,7 @@
 
 - [데이터베이스 이름 바꾸기](https://stackoverrun.com/ko/q/16709)
 - [원격 접속 허용하는 법](https://jupiny.com/2016/12/13/could-not-connect-to-server-connection-refused-when-remote-access-to-postgresql/)
+- [NoSQL과 RDBMS 적절하게 섞기](https://mustread.tistory.com/5)
 
 ### Python
 - [문자열 조작하기](https://dojang.io/mod/page/view.php?id=2299)
@@ -101,13 +117,8 @@
 
 ### Spring
 
-- [JPA 초기 설정 With Gradle](https://blog.naver.com/PostView.nhn?blogId=kangminser88&logNo=221308016222)
-- [JPA의 장단점 설명 및 기본 구조 만들기](https://goddaehee.tistory.com/209)
 - [Spring과 Swagger 연동](https://www.youtube.com/watch?v=2da5VedUvaw)
 - [@AutoWired 알아보기](https://galid1.tistory.com/512)
-- [JPA 즉시 로딩과 지연 로딩](https://ict-nroo.tistory.com/132)
-- [JPA에서 %LIKE%로 데이터 찾는 법](https://stackoverflow.com/questions/25362540/like-query-in-spring-jparepository)
-- [JPA 사용할 때 쿼리 직접 쓰는 법](https://victorydntmd.tistory.com/211)
 
 ### Vue
 
