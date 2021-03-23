@@ -82,6 +82,10 @@
 
 ### NestJS
 - [NestJS로 Swagger 문서화하기](https://velog.io/@glowforever/NESTJS로-Swagger-문서화-하기)
+- [Nest.js에서 jwt 토큰 관리하기](https://velog.io/@yiyb0603/Nest.js%EC%97%90%EC%84%9C-jwt-%ED%86%A0%ED%81%B0-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
+- [Nest.js에서 Github OAuth 구현하기](https://velog.io/@yiyb0603/Nest.js%EC%97%90%EC%84%9C-Github-OAuth-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
+- [Nest.js에서 전역 에러 처리하기](https://velog.io/@yiyb0603/Nest.js%EC%97%90%EC%84%9C-%EC%A0%84%EC%97%AD%EC%9C%BC%EB%A1%9C-%EC%97%90%EB%9F%AC-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0)
+- [Nest.js에서 파일 업로드하기](https://velog.io/@yiyb0603/Nest.js%EC%97%90%EC%84%9C-%ED%8C%8C%EC%9D%BC-%EC%97%85%EB%A1%9C%EB%93%9C%ED%95%98%EA%B8%B0)
 
 ### Next.js
 - [analyze를 이용한 Next.js Bundle Size 측정하기](https://flaviocopes.com/nextjs-analyze-app-bundle/)
