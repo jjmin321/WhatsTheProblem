@@ -4,6 +4,11 @@
 
 > 누구든지 기여 할 수 있어요! [기여하러 가기](#기여)<br/>기여하고 싶으신 분은 이 저장소를 Fork 한 후, Pull Request를 보내주세요.
 
+## 기여해 준 사람들
+<a href="https://github.com/gyoogle/tech-interview-for-developer/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=jjmin321/whatstheproblem" />
+</a>
+
 ## 카테고리
 
 `a-z` 순서로 정렬되어 있어요.
