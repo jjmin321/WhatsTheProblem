@@ -129,6 +129,7 @@
 - [Spring과 Swagger 연동](https://www.youtube.com/watch?v=2da5VedUvaw)
 - [@AutoWired 알아보기](https://galid1.tistory.com/512)
 - [application.yml 값 가져오기](https://oingdaddy.tistory.com/186)
+- [@NotNull, @NotEmpty, @NotBlank 차이](https://sanghye.tistory.com/36)
 
 ### Vue
 
