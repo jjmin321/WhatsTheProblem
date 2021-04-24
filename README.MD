@@ -123,6 +123,10 @@
 
 - [Spring과 Swagger 연동](https://www.youtube.com/watch?v=2da5VedUvaw)
 - [@AutoWired 알아보기](https://galid1.tistory.com/512)
+- [application.yml 값 가져오기](https://oingdaddy.tistory.com/186)
+- [@NotNull, @NotEmpty, @NotBlank 차이](https://sanghye.tistory.com/36)
+- [@Valid가 적용되지 않을때](https://stackoverflow.com/questions/48614773/spring-boot-validation-annotations-valid-and-notblank-not-working)
+- [AOP를 도입하고 싶다면 보자](https://alwayspr.tistory.com/34)
 
 ### Vue
 
