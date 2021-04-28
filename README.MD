@@ -64,6 +64,7 @@
 - [JPA 즉시 로딩과 지연 로딩](https://ict-nroo.tistory.com/132)
 - [JPA에서 %LIKE%로 데이터 찾는 법](https://stackoverflow.com/questions/25362540/like-query-in-spring-jparepository)
 - [JPQL이 궁금한 당신에게 추천함](https://joont92.github.io/jpa/Spring-Data-JPA/)
+- [JPA로 Enum을 써보자](https://www.baeldung.com/jpa-persisting-enums-in-jpa)
 
 ### Kubernetes
 - [Kubernetes에 대해 알아보자](https://www.redhat.com/ko/topics/containers/what-is-kubernetes)
