@@ -47,6 +47,7 @@
 - [Java로 만드는 Macro](https://velog.io/@nkstar00/Java%EB%A1%9C-Macro%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90)
 - [Java Overloading과 Overriding 정리](https://velog.io/@nkstar00/%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9Overloading%EA%B3%BC-%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9Overriding)
 - [Java Path 클래스](https://m.blog.naver.com/PostView.nhn?blogId=horajjan&logNo=220484659082&proxyReferer=https:%2F%2Fwww.google.com%2F)
+- [Java 패키지 정보](https://mvnrepository.com/)
 
 ### JavaScript
 
