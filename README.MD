@@ -65,6 +65,9 @@
 - [JPA에서 %LIKE%로 데이터 찾는 법](https://stackoverflow.com/questions/25362540/like-query-in-spring-jparepository)
 - [JPQL이 궁금한 당신에게 추천함](https://joont92.github.io/jpa/Spring-Data-JPA/)
 
+### Kubernetes
+- [Kubernetes에 대해 알아보자](https://www.redhat.com/ko/topics/containers/what-is-kubernetes)
+
 ### Linux
 
 - [PostgreSQL 시작하기](https://velog.io/@maintain0404/PosgreSQL-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0)
