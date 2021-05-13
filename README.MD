@@ -110,6 +110,7 @@
 - [문자열 조작하기](https://dojang.io/mod/page/view.php?id=2299)
 - [정규표현식(re) 사용법](https://greeksharifa.github.io/정규표현식(re)/2018/08/04/regex-usage-05-intermediate/)
 - [map, filter 사용법](https://wikidocs.net/22803)
+- [리스트를 필터링하는 방법 2가지](https://m.blog.naver.com/wideeyed/221839555992)
 
 ### React
 
