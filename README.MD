@@ -19,6 +19,9 @@
 ### CSS
 - [픽셀 사용하지 않고 반응형 웹 만들기](https://nykim.work/85)
 
+### CSRF
+- [PUT, DELETE API에 CSRF 공격하는 법](https://stackoverflow.com/questions/11833061/is-csrf-possible-with-put-or-delete-methods)
+
 ### Docker 
 - [Dockerfile 명령어 정리(1)](https://nirsa.tistory.com/66)
 - [Docker Compose 커맨드 사용법](https://www.daleseo.com/docker-compose/)
