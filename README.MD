@@ -140,6 +140,7 @@
 - [@NotNull, @NotEmpty, @NotBlank 차이](https://sanghye.tistory.com/36)
 - [@Valid가 적용되지 않을때](https://stackoverflow.com/questions/48614773/spring-boot-validation-annotations-valid-and-notblank-not-working)
 - [AOP를 도입하고 싶다면 보자](https://alwayspr.tistory.com/34)
+- [Transactional 옵션에 대해 알아보기](https://velog.io/@sa833591/Spring-Transactional-%EC%98%B5%EC%85%98)
 
 ### Vue
 
