@@ -19,6 +19,9 @@
 ### CSS
 - [픽셀 사용하지 않고 반응형 웹 만들기](https://nykim.work/85)
 
+### CSRF
+- [PUT, DELETE API에 CSRF 공격하는 법](https://stackoverflow.com/questions/11833061/is-csrf-possible-with-put-or-delete-methods)
+
 ### Docker 
 - [Dockerfile 명령어 정리(1)](https://nirsa.tistory.com/66)
 - [Docker Compose 커맨드 사용법](https://www.daleseo.com/docker-compose/)
@@ -46,6 +49,9 @@
 - [Java Deep Copy(깊은 복사), Shallow Copy(얕은 복사)](https://velog.io/@nkstar00/Java%EC%97%90%EC%84%9C%EC%9D%98-%EA%B9%8A%EC%9D%80-%EB%B3%B5%EC%82%AC%EC%99%80-%EC%96%95%EC%9D%80-%EB%B3%B5%EC%82%AC)
 - [Java로 만드는 Macro](https://velog.io/@nkstar00/Java%EB%A1%9C-Macro%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90)
 - [Java Overloading과 Overriding 정리](https://velog.io/@nkstar00/%EC%98%A4%EB%B2%84%EB%A1%9C%EB%94%A9Overloading%EA%B3%BC-%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%94%A9Overriding)
+- [Java Path 클래스](https://m.blog.naver.com/PostView.nhn?blogId=horajjan&logNo=220484659082&proxyReferer=https:%2F%2Fwww.google.com%2F)
+- [Java 패키지 정보](https://mvnrepository.com/)
+- [Java Optional 바르게 쓰기](http://homoefficio.github.io/2019/10/03/Java-Optional-바르게-쓰기/)
 
 ### JavaScript
 
@@ -62,6 +68,11 @@
 - [JPA 즉시 로딩과 지연 로딩](https://ict-nroo.tistory.com/132)
 - [JPA에서 %LIKE%로 데이터 찾는 법](https://stackoverflow.com/questions/25362540/like-query-in-spring-jparepository)
 - [JPQL이 궁금한 당신에게 추천함](https://joont92.github.io/jpa/Spring-Data-JPA/)
+- [JPA로 Enum을 써보자](https://www.baeldung.com/jpa-persisting-enums-in-jpa)
+- [JPA 연관 관계 매핑(양방향 하는 법)](https://velog.io/@devsh/JPA-연관-관계-매핑-OneToMany-ManyToOne-OneToOne-ManyToMany)
+
+### Kubernetes
+- [Kubernetes에 대해 알아보자](https://www.redhat.com/ko/topics/containers/what-is-kubernetes)
 
 ### Linux
 
@@ -103,6 +114,9 @@
 ### Python
 - [문자열 조작하기](https://dojang.io/mod/page/view.php?id=2299)
 - [정규표현식(re) 사용법](https://greeksharifa.github.io/정규표현식(re)/2018/08/04/regex-usage-05-intermediate/)
+- [map, filter 사용법](https://wikidocs.net/22803)
+- [리스트를 필터링하는 방법 2가지](https://m.blog.naver.com/wideeyed/221839555992)
+- [순열과 정렬 사용법](https://velog.io/@dramatic/Python-permutation-combination-순열과-조합)
 
 ### React
 
@@ -128,6 +142,7 @@
 - [@NotNull, @NotEmpty, @NotBlank 차이](https://sanghye.tistory.com/36)
 - [@Valid가 적용되지 않을때](https://stackoverflow.com/questions/48614773/spring-boot-validation-annotations-valid-and-notblank-not-working)
 - [AOP를 도입하고 싶다면 보자](https://alwayspr.tistory.com/34)
+- [Transactional 옵션에 대해 알아보기](https://velog.io/@sa833591/Spring-Transactional-%EC%98%B5%EC%85%98)
 
 ### Vue
 
