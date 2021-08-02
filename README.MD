@@ -27,6 +27,9 @@
 - [Docker Compose 커맨드 사용법](https://www.daleseo.com/docker-compose/)
 - [Docker Compose 원하는 버전 설치하기](https://docs.docker.com/compose/install/)
 
+### Git
+- [SSH 키로 깃헙에 연동하기](https://kindtis.tistory.com/606)
+
 ### Go
 
 - [Go Run, Build, Install 차이](https://medium.com/@whj2013123218/go-run-build-install-fa29cab5bc32)
