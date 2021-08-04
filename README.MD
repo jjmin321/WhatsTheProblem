@@ -57,6 +57,7 @@
 - [Java Optional 바르게 쓰기](http://homoefficio.github.io/2019/10/03/Java-Optional-바르게-쓰기/)
 - [동시성 문제 해결방법 3가지](https://stackoverflow.com/questions/9749746/what-is-the-difference-between-atomic-volatile-synchronized)
 - [Volatile과 Atomic 비교](https://stackoverflow.com/questions/19744508/volatile-vs-atomic)
+- [::의 의미, 메소드 참조표현식](http://yoonbumtae.com/?p=2776)
 
 ### JavaScript
 
