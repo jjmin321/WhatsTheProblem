@@ -9,7 +9,7 @@
 `a-z` 순서로 정렬되어 있어요.
 
 ### 정말 유용한 블로그
-- [Java, Javascript, Graphql, Docker 등](https://www.daleseo.com/docker-compose/)
+- [daleseo.com](https://www.daleseo.com/)
 
 ### Android
 
