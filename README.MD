@@ -62,6 +62,7 @@
 - [동시성 문제 해결방법 3가지](https://stackoverflow.com/questions/9749746/what-is-the-difference-between-atomic-volatile-synchronized)
 - [Volatile과 Atomic 비교](https://stackoverflow.com/questions/19744508/volatile-vs-atomic)
 - [::의 의미, 메소드 참조표현식](http://yoonbumtae.com/?p=2776)
+- [Intelij에서 jar 만들기](https://tourspace.tistory.com/226)
 
 ### JavaScript
 
