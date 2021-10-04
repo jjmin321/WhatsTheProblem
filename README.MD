@@ -8,6 +8,9 @@
 
 `a-z` 순서로 정렬되어 있어요.
 
+### 정말 유용한 블로그
+- [daleseo.com](https://www.daleseo.com/)
+
 ### Android
 
 - [Android Studio 이유 없는 오류 대처법](https://velog.io/@nkstar00/Android-Studio-%EC%9D%B4%EC%9C%A0-%EB%AA%A8%EB%A5%BC-%EC%98%A4%EB%A5%98-%EB%8C%80%EC%B2%98%EB%B2%95)
@@ -24,8 +27,12 @@
 
 ### Docker 
 - [Dockerfile 명령어 정리(1)](https://nirsa.tistory.com/66)
+- [Dockerfile 명령어 뽀개기](https://waspro.tistory.com/536)
 - [Docker Compose 커맨드 사용법](https://www.daleseo.com/docker-compose/)
 - [Docker Compose 원하는 버전 설치하기](https://docs.docker.com/compose/install/)
+
+### Git
+- [SSH 키로 깃헙에 연동하기](https://kindtis.tistory.com/606)
 
 ### Go
 
@@ -52,6 +59,10 @@
 - [Java Path 클래스](https://m.blog.naver.com/PostView.nhn?blogId=horajjan&logNo=220484659082&proxyReferer=https:%2F%2Fwww.google.com%2F)
 - [Java 패키지 정보](https://mvnrepository.com/)
 - [Java Optional 바르게 쓰기](http://homoefficio.github.io/2019/10/03/Java-Optional-바르게-쓰기/)
+- [동시성 문제 해결방법 3가지](https://stackoverflow.com/questions/9749746/what-is-the-difference-between-atomic-volatile-synchronized)
+- [Volatile과 Atomic 비교](https://stackoverflow.com/questions/19744508/volatile-vs-atomic)
+- [::의 의미, 메소드 참조표현식](http://yoonbumtae.com/?p=2776)
+- [Intelij에서 jar 만들기](https://tourspace.tistory.com/226)
 
 ### JavaScript
 
@@ -143,6 +154,7 @@
 - [@Valid가 적용되지 않을때](https://stackoverflow.com/questions/48614773/spring-boot-validation-annotations-valid-and-notblank-not-working)
 - [AOP를 도입하고 싶다면 보자](https://alwayspr.tistory.com/34)
 - [Transactional 옵션에 대해 알아보기](https://velog.io/@sa833591/Spring-Transactional-%EC%98%B5%EC%85%98)
+- [Spring Project 로컬에서 실행시키기](https://rachel-kwak.github.io/2021/03/31/Spring-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Local-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EC%8B%A4%ED%96%89%EC%8B%9C%ED%82%A4%EA%B8%B0.html)
 
 ### Vue
 
