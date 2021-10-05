@@ -111,6 +111,7 @@
 
 ### Next.js
 - [analyze를 이용한 Next.js Bundle Size 측정하기](https://flaviocopes.com/nextjs-analyze-app-bundle/)
+- [Next.js에서 Styled-Components 사용시 주의사항](https://velog.io/@sv002/Next.js%EC%99%80-Styled-components-%EA%B7%B8%EB%A6%AC%EA%B3%A0-GlobalStyle%EC%9D%98-%ED%95%A8%EC%A0%95-feat.FlickeringFont)
 
 ### Node.js
 
