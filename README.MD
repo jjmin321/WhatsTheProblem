@@ -183,5 +183,5 @@
 ### 블로그
 
 - [daleseo.com](https://www.daleseo.com/)
-- [https://kamang-it.tistory.com/](https://kamang-it.tistory.com/)
+- [kamang-it.tistory.com/](https://kamang-it.tistory.com/)
 - [jjmin321.github.io](https://jjmin321.github.io)
