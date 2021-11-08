@@ -85,8 +85,6 @@
 ### Kafka
 - [Kafka 설치 후 테스트하기](https://developer-youngjun.tistory.com/13)
 
-
-
 ### Kubernetes
 - [Kubernetes에 대해 알아보자](https://www.redhat.com/ko/topics/containers/what-is-kubernetes)
 
@@ -161,6 +159,10 @@
 - [AOP를 도입하고 싶다면 보자](https://alwayspr.tistory.com/34)
 - [Transactional 옵션에 대해 알아보기](https://velog.io/@sa833591/Spring-Transactional-%EC%98%B5%EC%85%98)
 - [Spring Project 로컬에서 실행시키기](https://rachel-kwak.github.io/2021/03/31/Spring-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Local-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EC%8B%A4%ED%96%89%EC%8B%9C%ED%82%A4%EA%B8%B0.html)
+
+### Spring Cloud Stream
+
+- [Spring Cloud Stream 사용해보기 with kafka](https://kamang-it.tistory.com/entry/KafkaJavaSpringBootSpringCloudStreamSpring-Cloud-Stream-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-1)
 
 ### Vue
 
