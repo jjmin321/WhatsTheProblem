@@ -174,6 +174,10 @@
 
 - [Spring Cloud Stream 사용해보기 with kafka](https://kamang-it.tistory.com/entry/KafkaJavaSpringBootSpringCloudStreamSpring-Cloud-Stream-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-1)
 
+### SQL
+
+- [쿼리 최적화](https://medium.com/watcha/%EC%BF%BC%EB%A6%AC-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%B2%AB%EA%B1%B8%EC%9D%8C-%EB%B3%B4%EB%8B%A4-%EB%B9%A0%EB%A5%B8-%EC%BF%BC%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-7%EA%B0%80%EC%A7%80-%EC%B2%B4%ED%81%AC-%EB%A6%AC%EC%8A%A4%ED%8A%B8-bafec9d2c073)
+
 ### Vue
 
 - [Vue 개발 환경 구축](https://armontad-1202.tistory.com/entry/Vue-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95)
