@@ -186,7 +186,7 @@
 
 ### 블로그
 
-- [daleseo.com (Java, Docker, JS 등 전문 지식에 대해 꽤나 깊이 있게 글을 다루는 것이 특징이다](https://www.daleseo.com/)
-- [kamang-it.tistory.com/ (정말 다양한 개발 스택에 대해 다루고 있으며 독자 시점에서의 따라할 수 있는 튜토리얼이 특징이다](https://kamang-it.tistory.com/)
-- [https://theorydb.github.io (개발 뿐만 아닌 다양한 주제의 글을 from scratch 방식으로 설명하는 게 특징이다](https://theorydb.github.io)
+- [daleseo.com (Java, Docker, JS 등 전문 지식에 대해 꽤나 깊이 있게 글을 다루는 것이 특징이다)](https://www.daleseo.com/)
+- [kamang-it.tistory.com/ (정말 다양한 개발 스택에 대해 다루고 있으며 독자 시점에서의 따라할 수 있는 튜토리얼이 특징이다)](https://kamang-it.tistory.com/)
+- [https://theorydb.github.io (개발 뿐만 아닌 다양한 주제의 글을 from scratch 방식으로 설명하는 게 특징이다)](https://theorydb.github.io)
 - [jjmin321.github.io (그냥 제 블로그입니다)](https://jjmin321.github.io)
