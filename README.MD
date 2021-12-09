@@ -99,6 +99,7 @@
 
 ### Kafka
 - [Kafka 설치 후 테스트하기](https://developer-youngjun.tistory.com/13)
+- [Kafka Producer Config 정리](https://devidea.tistory.com/90)
 
 ### Kubernetes
 - [Kubernetes에 대해 알아보자](https://www.redhat.com/ko/topics/containers/what-is-kubernetes)
