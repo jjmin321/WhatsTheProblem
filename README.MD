@@ -197,4 +197,4 @@
 - [kamang-it.tistory.com/ (정말 다양한 개발 스택에 대해 다루고 있으며 독자 시점에서의 따라할 수 있는 튜토리얼이 특징이다)](https://kamang-it.tistory.com/)
 - [https://theorydb.github.io (개발 뿐만 아닌 다양한 주제의 글을 from scratch 방식으로 설명하는 게 특징이다)](https://theorydb.github.io)
 - [jjmin321.github.io (그냥 내 블로그이다)](https://jjmin321.github.io)
-- [https://blog.leedoing.com/ (AWS라는 기술만 깊고 다양하게 전문적으로 다루는 것이 특징이다](https://blog.leedoing.com/)
+- [https://blog.leedoing.com/ (AWS라는 기술만 깊고 다양하게 전문적으로 다루는 것이 특징이다)](https://blog.leedoing.com/)
