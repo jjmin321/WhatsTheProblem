@@ -29,6 +29,13 @@
 - [socket failed: EPERM (Operation not permitted) 해결법](https://blog.naver.com/kimjongwoo2003/222129083610)
 - [Android 생명 주기](https://velog.io/@nkstar00/Android-%EC%83%9D%EB%AA%85-%EC%A3%BC%EA%B8%B0-Life-Cycle)
 
+### AWS
+- [AWS의 EC2, Fargate, Lambda에 대해 알아보자](https://m.blog.naver.com/ljk041180/221967258214)
+- [AWS Step Function을 통한 서비스 플로우 개선](https://aws.amazon.com/ko/blogs/korea/things-go-better-with-step-functions/)
+- [AWS Lambda란?](https://brownbears.tistory.com/428)
+- [AWS Step Function 이해](https://blog.leedoing.com/184)
+- 
+
 ### CSS
 - [픽셀 사용하지 않고 반응형 웹 만들기](https://nykim.work/85)
 
