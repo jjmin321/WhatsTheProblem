@@ -80,6 +80,7 @@
 - [Volatile과 Atomic 비교](https://stackoverflow.com/questions/19744508/volatile-vs-atomic)
 - [::의 의미, 메소드 참조표현식](http://yoonbumtae.com/?p=2776)
 - [Intelij에서 jar 만들기](https://tourspace.tistory.com/226)
+- [Java Heap Dump 분석하기](https://jupiny.com/2019/07/15/java-heap-dump-analysis/)
 
 ### JavaScript
 
