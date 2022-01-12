@@ -81,6 +81,7 @@
 - [::의 의미, 메소드 참조표현식](http://yoonbumtae.com/?p=2776)
 - [Intelij에서 jar 만들기](https://tourspace.tistory.com/226)
 - [Java Heap Dump 분석하기](https://jupiny.com/2019/07/15/java-heap-dump-analysis/)
+- [Java Heap Memory 분석기](https://perfectacle.github.io/2019/04/28/heap-memory-analytics-with-eclipse-mat/)
 
 ### JavaScript
 
@@ -187,6 +188,9 @@
 ### Spring Cloud Stream
 
 - [Spring Cloud Stream 사용해보기 with kafka](https://kamang-it.tistory.com/entry/KafkaJavaSpringBootSpringCloudStreamSpring-Cloud-Stream-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-1)
+
+### Spring Security
+- [Spring Security로 사용할 수 있는 여러 인증 방법](https://owin2828.github.io/devlog/2019/12/30/spring-18.html)
 
 ### SQL
 
