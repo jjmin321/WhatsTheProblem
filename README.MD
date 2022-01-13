@@ -188,6 +188,7 @@
 ### Spring Cloud Stream
 
 - [Spring Cloud Stream 사용해보기 with kafka](https://kamang-it.tistory.com/entry/KafkaJavaSpringBootSpringCloudStreamSpring-Cloud-Stream-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-1)
+- [Spring Cloud Stream Kafka Producer Configuration](https://docs.confluent.io/platform/current/installation/configuration/producer-configs.html)
 
 ### Spring Security
 - [Spring Security로 사용할 수 있는 여러 인증 방법](https://owin2828.github.io/devlog/2019/12/30/spring-18.html)
