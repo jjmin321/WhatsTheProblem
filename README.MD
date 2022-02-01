@@ -185,6 +185,12 @@
 - [Transactional 옵션에 대해 알아보기](https://velog.io/@sa833591/Spring-Transactional-%EC%98%B5%EC%85%98)
 - [Spring Project 로컬에서 실행시키기](https://rachel-kwak.github.io/2021/03/31/Spring-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-Local-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EC%8B%A4%ED%96%89%EC%8B%9C%ED%82%A4%EA%B8%B0.html)
 
+### Spring Batch
+- [Spring Batch란? 이해하고 사용하기](https://khj93.tistory.com/entry/Spring-Batch%EB%9E%80-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B3%A0-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+
+### Spring Boot Admin
+- [Spring Boot Admin with Spring Boot Actuator](https://infondgndg91.blogspot.com/2020/06/spring-boot-admin-with-spring-boot.html)
+
 ### Spring Cloud Stream
 
 - [Spring Cloud Stream 사용해보기 with kafka](https://kamang-it.tistory.com/entry/KafkaJavaSpringBootSpringCloudStreamSpring-Cloud-Stream-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-1)
