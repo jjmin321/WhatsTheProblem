@@ -121,6 +121,7 @@
 - [Sudo 권한 부여 및 계정 비밀번호 변경](https://m.blog.naver.com/wonseok0403/221347390374)
 - [Tmux 사용법](https://velog.io/@ur-luella/tmux-사용법)
 - [안 죽는 좀비 프로세스 지우는 법](https://zetawiki.com/wiki/안_죽는_좀비_프로세스_죽이기)
+- [크론탭 사용법](https://jdm.kr/blog/2)
 
 ### Mysql (MariaDB)
 
