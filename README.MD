@@ -131,6 +131,10 @@
 - [MySQL 이모지 저장 시 오류(utf8mb4)](https://yookeun.github.io/database/2015/07/21/mysql-utf8mb4/)
 - [DATETIME을 활용해서 년도, 월, 일 등만을 추출하는 법](https://extbrain.tistory.com/60)
 
+### MongoDB 
+
+- [MongoDB Journaling은 어떻게 동작할까?](https://wonnyz.tumblr.com/post/91139514161/mongodb-journaling)
+
 ### NestJS
 - [NestJS로 Swagger 문서화하기](https://velog.io/@glowforever/NESTJS로-Swagger-문서화-하기)
 - [Nest.js에서 jwt 토큰 관리하기](https://velog.io/@yiyb0603/Nest.js%EC%97%90%EC%84%9C-jwt-%ED%86%A0%ED%81%B0-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
