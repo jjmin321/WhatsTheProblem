@@ -104,6 +104,7 @@
 - [JPQL이 궁금한 당신에게 추천함](https://joont92.github.io/jpa/Spring-Data-JPA/)
 - [JPA로 Enum을 써보자](https://www.baeldung.com/jpa-persisting-enums-in-jpa)
 - [JPA 연관 관계 매핑(양방향 하는 법)](https://velog.io/@devsh/JPA-연관-관계-매핑-OneToMany-ManyToOne-OneToOne-ManyToMany)
+- [Entity 생성 시 사용하는 어노테이션](https://velog.io/@gowjr207/Entity-에-쓰이는-어노테이션)
 
 ### Kafka
 - [Kafka 설치 후 테스트하기](https://developer-youngjun.tistory.com/13)
