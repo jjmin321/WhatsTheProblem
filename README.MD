@@ -223,3 +223,4 @@
 - [https://theorydb.github.io (개발 뿐만 아닌 다양한 주제의 글을 from scratch 방식으로 설명하는 게 특징이다)](https://theorydb.github.io)
 - [jjmin321.github.io (그냥 내 블로그이다)](https://jjmin321.github.io)
 - [https://blog.leedoing.com/ (AWS라는 기술만 깊고 다양하게 전문적으로 다루는 것이 특징이다)](https://blog.leedoing.com/)
+- [https://willseungh0.tistory.com/ (다방면적인 기술 서적을 바탕으로 잘 정리해놓으시는 것이 특징이다)](https://willseungh0.tistory.com/)
