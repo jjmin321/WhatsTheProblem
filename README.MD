@@ -125,6 +125,12 @@
 - [안 죽는 좀비 프로세스 지우는 법](https://zetawiki.com/wiki/안_죽는_좀비_프로세스_죽이기)
 - [크론탭 사용법](https://jdm.kr/blog/2)
 
+### Maven
+
+- [Maven 설치하기](https://www.whiteship.me/how-to-install-maven/)
+- [mvn package 시 테스트 건너뛰기](https://brocess.tistory.com/148)
+- [Maven 기본 명령어 및 옵션](https://donggov.tistory.com/21)
+
 ### Mysql (MariaDB)
 
 - [MacOS에서 mysql과 mariadb를 함께 설치하여 발생하는 충돌](https://stackoverrun.com/ko/q/11675926)
