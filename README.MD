@@ -232,3 +232,4 @@
 - [jjmin321.github.io (그냥 내 블로그이다)](https://jjmin321.github.io)
 - [https://blog.leedoing.com/ (AWS라는 기술만 깊고 다양하게 전문적으로 다루는 것이 특징이다)](https://blog.leedoing.com/)
 - [https://willseungh0.tistory.com/ (다방면적인 기술 서적을 바탕으로 잘 정리해놓으시는 것이 특징이다)](https://willseungh0.tistory.com/)
+- [https://bcho.tistory.com/ (다양한 기술에 대해 원하는 내용을 보기 좋고 깔끔하게 잘 분석해서 정리하시는 것이 특징임)](https://bcho.tistory.com/)
