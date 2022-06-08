@@ -126,6 +126,7 @@
 - [Tmux 사용법](https://velog.io/@ur-luella/tmux-사용법)
 - [안 죽는 좀비 프로세스 지우는 법](https://zetawiki.com/wiki/안_죽는_좀비_프로세스_죽이기)
 - [크론탭 사용법](https://jdm.kr/blog/2)
+- [파일, 폴더 찾기](https://sigmasabjil.tistory.com/22)
 
 ### Maven
 
