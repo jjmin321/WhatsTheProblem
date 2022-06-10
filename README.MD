@@ -35,6 +35,9 @@
 - [AWS Lambda란?](https://brownbears.tistory.com/428)
 - [AWS Step Function 이해](https://blog.leedoing.com/184)
 
+### Computer Science
+- [Mutex, Semaphore with go](https://umi0410.github.io/blog/golang/go-mutex-semaphore/)
+
 ### CSS
 - [픽셀 사용하지 않고 반응형 웹 만들기](https://nykim.work/85)
 
