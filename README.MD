@@ -34,6 +34,7 @@
 - [AWS Step Function을 통한 서비스 플로우 개선](https://aws.amazon.com/ko/blogs/korea/things-go-better-with-step-functions/)
 - [AWS Lambda란?](https://brownbears.tistory.com/428)
 - [AWS Step Function 이해](https://blog.leedoing.com/184)
+- [AWS RDS 튜토리얼](https://velog.io/@noyo0123/AWS-RDS-프리티어로-사용해보기-gek2el89jw)
 
 ### Computer Science
 - [Mutex, Semaphore with go](https://umi0410.github.io/blog/golang/go-mutex-semaphore/)
