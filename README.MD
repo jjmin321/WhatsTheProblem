@@ -35,6 +35,7 @@
 - [AWS Lambda란?](https://brownbears.tistory.com/428)
 - [AWS Step Function 이해](https://blog.leedoing.com/184)
 - [AWS RDS 튜토리얼](https://velog.io/@noyo0123/AWS-RDS-프리티어로-사용해보기-gek2el89jw)
+- [AWS VPC 개념잡기](https://medium.com/harrythegreat/aws-가장쉽게-vpc-개념잡기-71eef95a7098)
 
 ### Computer Science
 - [Mutex, Semaphore with go](https://umi0410.github.io/blog/golang/go-mutex-semaphore/)
@@ -239,3 +240,4 @@
 - [https://blog.leedoing.com/ (AWS라는 기술만 깊고 다양하게 전문적으로 다루는 것이 특징이다)](https://blog.leedoing.com/)
 - [https://willseungh0.tistory.com/ (다방면적인 기술 서적을 바탕으로 잘 정리해놓으시는 것이 특징이다)](https://willseungh0.tistory.com/)
 - [https://bcho.tistory.com/ (다양한 기술에 대해 원하는 내용을 보기 좋고 깔끔하게 잘 분석해서 정리하시는 것이 특징임)](https://bcho.tistory.com/)
+- [https://medium.com/@herryhan2435 (AWS에 관한 다양한 경험들을 깔끔하게 정리)](https://medium.com/@herryhan2435)
