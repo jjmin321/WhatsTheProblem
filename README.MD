@@ -98,6 +98,9 @@
 - [JavaScript의 원소 정렬 함수 Sort 알아보기](https://dudmy.net/javascript/2015/11/16/javascript-sort/)
 - [e.preventDefault()와 e.stopPropagation()의 차이점](https://velog.io/@yiyb0603/JS-e.preventDefault%EC%99%80-e.stopPropagation%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
 
+### Jedis
+- [Jedis Pool 최적화](https://theserverside.tistory.com/302)
+
 ### Jekyll
 - [Jekyll 한글화 공식 홈페이지](http://jekyllrb-ko.github.io/docs/structure/)
 - [Jekyll 설정 from scratch](https://theorydb.github.io)
