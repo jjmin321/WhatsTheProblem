@@ -89,6 +89,7 @@
 - [Intelij에서 jar 만들기](https://tourspace.tistory.com/226)
 - [Java Heap Dump 분석하기](https://jupiny.com/2019/07/15/java-heap-dump-analysis/)
 - [Java Heap Memory 분석기](https://perfectacle.github.io/2019/04/28/heap-memory-analytics-with-eclipse-mat/)
+- [JAVA slf4j의 NDC, MDC 객체 차이점](https://stackoverflow.com/questions/14134734/what-is-the-difference-between-log4js-ndc-and-mdc-facilities)
 
 ### JavaScript
 
