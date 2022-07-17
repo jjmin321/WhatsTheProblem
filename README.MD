@@ -123,6 +123,7 @@
 - [Kafka Producer Config 정리](https://devidea.tistory.com/90)
 - [Kafka Producer Config 정리 - 다른 자료](https://soft.plusblog.co.kr/14)
 - [Kafka에서 1MB 이상의 큰 메시지를 보낼 때 설정값들](https://always-kimkim.tistory.com/entry/kafka-operations-settings-concerned-when-the-message-has-more-than-1-mb)
+- [Kafka 메세지 압축률 안나와서 고생한 이야기](http://happinessoncode.com/2019/01/18/kafka-compression-ratio/)
 
 ### Kubernetes
 - [Kubernetes에 대해 알아보자](https://www.redhat.com/ko/topics/containers/what-is-kubernetes)
