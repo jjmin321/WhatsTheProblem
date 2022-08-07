@@ -126,7 +126,7 @@
 - [Kafka 메세지 압축률 안나와서 고생한 이야기](http://happinessoncode.com/2019/01/18/kafka-compression-ratio/)
 - [Kafka Topic & Partition](https://ggop-n.tistory.com/89)
 - [Kafka 운영자가 말하는 Kafka Consumer Group](https://www.popit.kr/kafka-consumer-group/)
-- [Kafka의 Consumer Group, 개인적으로는 윗 글보다 잘 설명되어 있음](https://velog.io/@busybean3)
+- [Kafka의 Consumer Group, 개인적으로는 윗 글보다 잘 설명되어 있음](https://velog.io/@busybean3/아파치-카프카Apache-Kafka의-컨슈머-그룹Consumer-group-11)
 
 ### Kubernetes
 - [Kubernetes에 대해 알아보자](https://www.redhat.com/ko/topics/containers/what-is-kubernetes)
