@@ -117,6 +117,7 @@
 - [JPA 연관 관계 매핑(양방향 하는 법)](https://velog.io/@devsh/JPA-연관-관계-매핑-OneToMany-ManyToOne-OneToOne-ManyToMany)
 - [Entity 생성 시 사용하는 어노테이션](https://velog.io/@gowjr207/Entity-에-쓰이는-어노테이션)
 - [@GeneratedValue 전략](https://velog.io/@gudnr1451/GeneratedValue-%EC%A0%95%EB%A6%AC)
+- [JPA Save 원리](https://velog.io/@rainmaker007/spring-data-jpa-save-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC)
 
 ### Kafka
 - [Kafka 설치 후 테스트하기](https://developer-youngjun.tistory.com/13)
