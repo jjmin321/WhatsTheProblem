@@ -65,6 +65,7 @@
 - [Recover로 에러 처리하는 법](https://hamait.tistory.com/1027)
 - [[]string을 []byte로 바꾸는 법](https://www.socketloop.com/tutorials/golang-convert-string-to-byte-examples)
 - [날짜 계산, 포맷 변경하는 법](https://brownbears.tistory.com/405)
+- [Slice에서 contains함수를 이용하고 싶다면 이와 같은 응용 방법을 사용해라](https://stackoverflow.com/questions/10485743/contains-method-for-a-slice)
 
 ### Java
 
