@@ -92,6 +92,7 @@
 - [Java Heap Memory 분석기](https://perfectacle.github.io/2019/04/28/heap-memory-analytics-with-eclipse-mat/)
 - [JAVA slf4j의 NDC, MDC 객체 차이점](https://stackoverflow.com/questions/14134734/what-is-the-difference-between-log4js-ndc-and-mdc-facilities)
 - [JAVA Functional Interface](https://stackoverflow.com/questions/29945627/java-8-lambda-void-argument)
+- [JAVA Collection 특징 및 장단점 정리](https://www.grepiu.com/post/9)
 
 ### JavaScript
 
