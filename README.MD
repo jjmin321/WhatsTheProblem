@@ -255,4 +255,4 @@
 - [https://willseungh0.tistory.com/ (다방면적인 기술 서적을 바탕으로 잘 정리해놓으시는 것이 특징이다)](https://willseungh0.tistory.com/)
 - [https://bcho.tistory.com/ (다양한 기술에 대해 원하는 내용을 보기 좋고 깔끔하게 잘 분석해서 정리하시는 것이 특징임)](https://bcho.tistory.com/)
 - [https://medium.com/@herryhan2435 (AWS에 관한 다양한 경험들을 깔끔하게 정리)](https://medium.com/@herryhan2435)
-- [https://velog.io/@busybean3] (다양한 기술들에 대해 잘 정리되어 있다](https://velog.io/@busybean3)
+- [https://velog.io/@busybean3 (다양한 기술들에 대해 잘 정리되어 있다)](https://velog.io/@busybean3)
