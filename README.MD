@@ -49,6 +49,7 @@
 ### Docker 
 - [Dockerfile 명령어 정리(1)](https://nirsa.tistory.com/66)
 - [Dockerfile 명령어 뽀개기](https://waspro.tistory.com/536)
+- [Docker buildx](https://gurumee92.tistory.com/311)
 
 ### Docker Compose
 - [Docker Compose 커맨드 사용법](https://www.daleseo.com/docker-compose/)
